@@ -2,28 +2,28 @@
 
 
 	<h3>Apples</h3>
-        <p><a href="apples.html"><img src="img/apple-300.jpg" alt="Apples! "></a></p>
+        <p><a href="apples.html"><img src="../images/apple-300.jpg" alt="Apples! "></a></p>
         <p>Yummy delicious apples.</p>
         <p><a href="apples.html">Read more &gt;&gt;</a></p>	
 
 
 
 <h3>Bananas</h3>
-<p><a href="bananas.html"><img src="img/bananas-300.jpg" alt="Bananas! "></a></p>
+<p><a href="bananas.html"><img src="../images/bananas-300.jpg" alt="Bananas! "></a></p>
 <p>Yummy delicious bananas.</p>
 <p><a href="bananas.html">Read more &gt;&gt;</a></p>
 
 
 
                 <h3>Oranges</h3>
-                <p><a href="oranges.html"><img src="img/orange-300.jpg" alt="Orange! "></a></p>
+                <p><a href="oranges.html"><img src="../images/orange-300.jpg" alt="Orange! "></a></p>
                 <p>Yummy delicious oranges.</p>
                 <p><a href="oranges.html">Read more &gt;&gt;</a></p>
 
 
 
                 <h3>Fruit Gallery</h3>
-                <p><a href="gallery.html"><img src="img/cherry-300.jpg" alt="Cherries! "></a></p>
+                <p><a href="gallery.html"><img src="../images/cherry-300.jpg" alt="Cherries! "></a></p>
                 <p>Yummy delicious fruit of all kinds.</p>
                 <p><a href="gallery.html">Read more &gt;&gt;</a></p>
 
